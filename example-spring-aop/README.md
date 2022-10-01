@@ -17,7 +17,7 @@ mvn test
 ## Usage
 
 ```java
-import com.indevsolutions.example.aspectj.Console
+import com.indevsolutions.example.springaop.Console
 
 # create the console instance
 Console user = new Console();
