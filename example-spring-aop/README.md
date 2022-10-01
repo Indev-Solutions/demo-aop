@@ -19,10 +19,10 @@ mvn test
 ```java
 import com.indevsolutions.example.springaop.Console
 
-# create the console instance
+// create the console instance
 Console user = new Console();
 
-# print a message and the aspect is going to be performed.
+// print a message and the aspect is going to be performed.
 user.printMessage();
 
 ```
